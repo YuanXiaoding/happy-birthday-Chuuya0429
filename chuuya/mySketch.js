@@ -237,7 +237,7 @@ function drawWinScreen(){
 	if(textNum==0){
 		chusize=10;
 		chuy=400;
-		dasize=350;
+		dasize=400;
 		dazaiy=250;
 		dazaix=450;
 		hatsize=10;
@@ -253,7 +253,7 @@ function drawWinScreen(){
 	}else if(1<textNum&&textNum<14){
 		chusize=350;
 		chuy=250;
-		dasize=350;
+		dasize=400;
 		dazaiy=250;
 		dazaix=780;
 		hatsize=10;
