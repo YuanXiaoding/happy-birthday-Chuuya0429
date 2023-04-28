@@ -230,7 +230,7 @@ function drawWinScreen(){
 	fill(255);
   textAlign(LEFT);
 	text(texts[textNum],50,350);
-	print(dasize);
+	//print(dasize);
 	if (mouse.presses()){
 	textNum+=1;
 	}
